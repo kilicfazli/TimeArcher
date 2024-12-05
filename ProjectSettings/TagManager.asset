@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - engel
+  - rakip
+  - tas
+  - darbeliOk
+  - zamanOku
+  - lav
+  - zemin
+  - su
+  - kirilmazOk
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - background
+  - midground
+  - foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3074928791
+    locked: 0
+  - name: midground
+    uniqueID: 4078111293
+    locked: 0
+  - name: foreground
+    uniqueID: 1103548647
+    locked: 0

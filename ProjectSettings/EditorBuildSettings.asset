@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/anaMenu.unity
+    guid: 953fb776404e9c94b94b3472b6e3bdee
+  - enabled: 1
+    path: Assets/Scenes/nasilOynanir.unity
+    guid: e1116e063574c429a9df51cc148b7728
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 0cfd8f5e0f1fdfd49bb6108f724670d6
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 6b77f73dc3df2f24ab77a113186d109b
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: 4d1e1ce6b7940bc429fe1c7af30ed94d
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: adc8a6a9f15622b4dac08b1040f93876
+  - enabled: 1
+    path: Assets/Scenes/5.unity
+    guid: c7e06fcd0a57d6a459ebe94640c0abfb
+  - enabled: 1
+    path: Assets/Scenes/6.unity
+    guid: 67ee3e6adfd62cd46b187d6c9a6781da
+  - enabled: 1
+    path: Assets/Scenes/kazandin.unity
+    guid: de16c2e99b680334ba48847af7d03189
+  m_configObjects: {}
